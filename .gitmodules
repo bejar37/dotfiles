@@ -1,0 +1,9 @@
+[submodule ".oh-my-zsh"]
+	path = .oh-my-zsh
+	url = https://git@github.com/robbyrussel/oh-my-zsh.git
+[submodule ".vim"]
+	path = .vim
+	url = http://git@github.com/carlhuda/janus.git
+[submodule "gnome-terminal-colors-solarized"]
+	path = gnome-terminal-colors-solarized
+	url = http://git@github.com/sigurda/gnome-terminal-colors-solarized.git
