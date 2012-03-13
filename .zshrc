@@ -38,7 +38,6 @@ plugins=(rails ruby git)
 source $ZSH/oh-my-zsh.sh
 
 # Customize to your needs...
-export PATH=/home/mbejar/.rvm/gems/ruby-1.9.3-p0/bin:/home/mbejar/.rvm/gems/ruby-1.9.3-p0@global/bin:/home/mbejar/.rvm/rubies/ruby-1.9.3-p0/bin:/home/mbejar/.rvm/bin:/go/bin:/home/mbejar/bin:/usr/lib/lightdm/lightdm:/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin:/usr/games:/opt/matlab/bin
 # ~/.profile: executed by the command interpreter for login shells.
 # This file is not read by bash(1), if ~/.bash_profile or ~/.bash_login
 # exists.
